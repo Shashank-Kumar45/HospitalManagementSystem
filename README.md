@@ -90,27 +90,27 @@ HospitalManagementSystem/
 
 ### Login Screen
 
-(Add screenshot here)
+![Login Screen](screenshots/login.png)
 
 ### Patient Management
 
-(Add screenshot here)
+![Patient Management](screenshots/patient.png)
 
 ### Doctor Management
 
-(Add screenshot here)
+![Doctor Management](screenshots/doctor.png)
 
 ### Appointment Module
 
-(Add screenshot here)
+![Appointment](screenshots/appointment.png)
 
 ### Emergency Queue
 
-(Add screenshot here)
+![Emergency Queue](screenshots/emergency.png)
 
 ### Reports Module
 
-(Add screenshot here)
+![Reports](screenshots/reports.png)
 
 ---
 
