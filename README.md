@@ -1,3 +1,4 @@
+
 # Hospital Management System
 
 A complete, **offline** desktop Hospital Management System built with **C++17** and **Qt Widgets**.
@@ -124,3 +125,7 @@ empty they are created automatically with no data, so the app always starts clea
 ## License
 
 This project is provided as-is for educational/demonstration purposes.
+
+# HospitalManagementSystem
+Offline Hospital Management System using C++ and Qt Widgets
+
