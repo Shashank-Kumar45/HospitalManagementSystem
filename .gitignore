@@ -1,0 +1,31 @@
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Build directories
+build-*/
+debug/
+release/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+
+# Qt generated files
+moc_*
+ui_*
+qrc_*
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
