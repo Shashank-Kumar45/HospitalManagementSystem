@@ -1,0 +1,11 @@
+release/main.o
+release/login.o
+release/mainwindow.o
+release/patient.o
+release/doctor.o
+release/appointment.o
+release/emergency.o
+release/filemanager.o
+release/qrc_resources.o
+release/moc_login.o
+release/moc_mainwindow.o

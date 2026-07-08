@@ -1,0 +1,11 @@
+debug/main.o
+debug/login.o
+debug/mainwindow.o
+debug/patient.o
+debug/doctor.o
+debug/appointment.o
+debug/emergency.o
+debug/filemanager.o
+debug/qrc_resources.o
+debug/moc_login.o
+debug/moc_mainwindow.o

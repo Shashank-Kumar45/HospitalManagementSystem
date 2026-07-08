@@ -1,0 +1,5 @@
+4|rohit|17|Male|leg cut|1
+3|shri hari|16|Male|eye|2
+6|fatima|15|Female|finger fracture|2
+2|shashank|20|Male|chest pain|3
+5|lata|20|Female|pet pain|3
